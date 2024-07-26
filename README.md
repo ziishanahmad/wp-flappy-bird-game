@@ -1,6 +1,3 @@
-
-
-```markdown
 # WP Flappy Bird Game
 
 A WordPress plugin to integrate the Flappy Bird game into your site.
@@ -47,4 +44,4 @@ Developed by [Zeeshan Ahmad](https://github.com/ziishanahmad).
 - **Email:** ziishanahmad@gmail.com
 - **GitHub:** [ziishanahmad](https://github.com/ziishanahmad)
 - **LinkedIn:** [ziishanahmad](https://www.linkedin.com/in/ziishanahmad/)
-```
+
